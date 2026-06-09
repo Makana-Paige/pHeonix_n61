@@ -1,0 +1,111 @@
+﻿2026
+ | [CO2]: 3628ppm
+SD initialized
+2026-5-28 4:12:5
+ | Temperature: -127.00˚C,
+ | [CO2]: 4491ppm
+2026-5-28 4:12:18
+ | Temperature: -127.00˚C,
+ | [CO2]: NULL
+2026-5-28 4:12:31
+ | Temperature: -127.00˚C,
+ | [CO2]: 6977ppm
+2026-5-28 4:12:44
+ | Temperature: -127.00˚C,
+ | [CO2]: 8255ppm
+2026-5-28 4:12:57
+ | Temperature: -127.00˚C,
+ | [CO2]: 9535ppm
+2026-5-28 4:13:10
+ | Temperature: -127.00˚C,
+ | [CO2]: 10000ppm
+2026-5-28 4:13:24
+ | Temperature: 24.81˚C,
+ | [CO2]: 10000ppm
+2026-5-28 4:13:38
+ | Temperature: 24.06˚C,
+ | [CO2]: 10000ppm
+2026-5-28 4:13:52
+ | Temperature: -127.00˚C,
+ | [CO2]: 8790ppm
+2026-5-28 4:14:5
+ | Temperature: -127.00˚C,
+ | [CO2]: 7293ppm
+2026-5-28 4:14:19
+ | Temperature: 24.50˚C,
+ | [CO2]: 5848ppm
+2026-5-28 4:14:33
+ | Temperature: -127.00˚C,
+ | [CO2]: 4796ppm
+2026-5-28 4:14:47
+ | Temperature: 23.19˚C,
+ | [CO2]: 3795ppm
+2026-5-28 4:15:0
+ | Temperature: 22.87˚C,
+ | [CO2]: NULL
+2026-5-28 4:15:14
+ | Temperature: -127.00˚C,
+ | [CO2]: 2564ppm
+2026-5-28 4:15:27
+ | Temperature: -127.00˚C,
+ | [CO2]: 2579ppm
+2026-5-28 4:15:40
+ | Temperature: -127.00˚C,
+ | [CO2]: 2851ppm
+2026-5-28 4:15:54
+ | Temperature: 24.62˚C,
+ | [CO2]: 2972ppm
+2026-5-28 4:16:8
+ | Temperature: 24.12˚C,
+ | [CO2]: 2680ppm
+2026-5-28 4:16:22
+ | Temperature: 23.50˚C,
+ | [CO2]: 2566ppm
+2026-5-28 4:16:35
+ | Temperature: 23.12˚C,
+ | [CO2]: 2298ppm
+2026-5-28 4:16:49
+ | Temperature: 22.75˚C,
+ | [CO2]: 2027ppm
+2026-5-28 4:17:3
+ | Temperature: -127.00˚C,
+ | [CO2]: 1920ppm
+2026-5-28 4:17:17
+ | Temperature: -127.00˚C,
+ | [CO2]: NULL
+2026-5-28 4:17:31
+ | Temperature: -127.00˚C,
+ | [CO2]: 3169ppm
+2026-5-28 4:17:45
+ | Temperature: 23.87˚C,
+ | [CO2]: 3030ppm
+2026-5-28 4:17:58
+ | Temperature: -127.00˚C,
+ | [CO2]: 2562ppm
+2026-5-28 4:18:12
+ | Temperature: 22.81˚C,
+ | [CO2]: NULL
+2026-5-28 4:18:26
+ | Temperature: 22.31˚C,
+ | [CO2]: 1873ppm
+2026-5-28 4:18:40
+ | Temperature: 24.69˚C,
+ | [CO2]: 1657ppm
+2026-5-28 4:18:53
+ | Temperature: -127.00˚C,
+ | [CO2]: 1546ppm
+2026-5-28 4:19:7
+ | Temperature: -127.00˚C,
+ | [CO2]: NULL
+2026-5-28 4:19:21
+ | Temperature: 25.31˚C,
+ | [CO2]: 1971ppm
+2026-5-28 4:19:35
+ | Temperature: -127.00˚C,
+ | [CO2]: NULL
+2026-5-28 4:19:49
+ | Temperature: 23.50˚C,
+ | [CO2]: 1960ppm
+2026-5-28 4:20:3
+ | Temperature: -127.00˚C,
+ | [CO2]: NULL
