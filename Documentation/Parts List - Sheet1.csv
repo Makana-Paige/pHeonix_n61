@@ -1,0 +1,14 @@
+,Part,Link,Notes,Number to Buy
+,K-30 1% CO2 Sensor,https://www.co2meter.com/products/k-30-fr-co2-sensor?srsltid=AfmBOorioI-tSQjjHpp9Cu3I4Km0nXCkUyqNWjPp24U07UCd6YJtk65u,,1
+,Expanded polytetrafluoroethylene,https://www.gorillagasket.com/sheet-material/expanded-eptfe-sheet-material/?attribute_pa_size=6-x-6&attribute_pa_thickness=1-8thick,,1
+,ESP8266 microcontroller,N/A,,
+,,,,
+,URTC,N/A,,
+,Marine sealant,N/A,,
+,PVC housing,N/A,,
+,3.7V or 5V battery,,"K-30 requires 5V input, all other components only need 3.7V- we'll either need to boost the DC-DC current before the K-30 or surpress the current after the K-30",
+,Temperature sensor,,Needed for K-30 calibration,
+,Epoxy,,,
+,Cable gland,,,
+,Antifouling coating?,,,
+,Arduino Microcontroller USB Cable,https://store-usa.arduino.cc/products/usb-2-0-cable-type-ab,,2
